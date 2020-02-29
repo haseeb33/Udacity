@@ -8,4 +8,5 @@
 *.bst
 *.xlsx
 *.xlsm
+service-credentials.json
 *.DS_Store
